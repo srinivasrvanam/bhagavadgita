@@ -1,3 +1,10 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-color: bisque;
+}
+
 dt{
     font-size: 24px;
     font-weight: bold;
@@ -10,4 +17,29 @@ a{
     margin: 3px;
     text-decoration: none;
     display: inline-block
+}
+
+.prev, .home, .next{
+    display: inline-block;
+}
+
+.sloka, .pada-chedha, .anvaya, .translation, .word-meaning, .notes {
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color:azure;
+    display: inline-block;
+}
+
+.word-meaning{
+    width: 75%;
+}
+
+.heading{
+    font-size: 24px;
+    font-weight: bold;
+    padding: 5px;
+    color: brown;
 }
