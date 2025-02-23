@@ -5,17 +5,16 @@ body{
     background-color: bisque;
 }
 
-a{
+.sloka-link, .prev, .home, .next{
     font-size: 18px;
-    border: 2px solid black;
+    font-weight: bold;
+    border-radius: 8px;
     padding: 7px;
     margin: 3px;
     text-decoration: none;
-    display: inline-block
-}
-
-.prev, .home, .next{
     display: inline-block;
+    background-color: #010E19;
+    color: white;
 }
 
 .sloka, .pada-chedha, .word-meaning, .translation, .anvaya, .notes {
