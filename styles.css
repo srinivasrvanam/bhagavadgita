@@ -50,3 +50,20 @@ a{
 .highlight{
     font-weight: bold;
 }
+
+/* TABLET SCREEN */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .sloka, .pada-chedha, .word-meaning, .translation, .anvaya, .notes {
+        width: 90%;
+    }
+}
+
+/* MOBILE SCREEN */
+@media (max-width: 768px) {
+    .sloka, .pada-chedha, .word-meaning, .translation, .anvaya, .notes {
+        width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+}
