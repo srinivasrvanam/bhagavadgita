@@ -5,11 +5,6 @@ body{
     background-color: bisque;
 }
 
-dt{
-    font-size: 24px;
-    font-weight: bold;
-}
-
 a{
     font-size: 18px;
     border: 2px solid black;
@@ -23,7 +18,7 @@ a{
     display: inline-block;
 }
 
-.sloka, .pada-chedha, .anvaya, .translation, .word-meaning, .notes {
+.sloka, .pada-chedha, .word-meaning, .translation, .anvaya, .notes {
     font-size: 18px;
     margin: 10px;
     padding: 10px;
@@ -32,18 +27,10 @@ a{
     background-color:antiquewhite;
     display: inline-block;
     vertical-align: top;
+    width: 40%;
 }
 
-.sloka, .pada-chedha, .anvaya{
-    width: 25%;
-}
-
-.word-meaning, .translation{
-    width: 45%;
-}
-
-.notes{
-    width: 60%;
+.anvaya, .notes{
     text-align: left;
 }
 
