@@ -29,12 +29,22 @@ a{
     padding: 10px;
     border: 2px solid black;
     border-radius: 8px;
-    background-color:azure;
+    background-color:antiquewhite;
     display: inline-block;
+    vertical-align: top;
 }
 
-.word-meaning{
-    width: 75%;
+.sloka, .pada-chedha, .anvaya{
+    width: 25%;
+}
+
+.word-meaning, .translation{
+    width: 45%;
+}
+
+.notes{
+    width: 60%;
+    text-align: left;
 }
 
 .heading{
@@ -42,4 +52,14 @@ a{
     font-weight: bold;
     padding: 5px;
     color: brown;
+    text-align: center;
+}
+
+.to-do{
+    font-weight: bold;
+    color: red;
+}
+
+.highlight{
+    font-weight: bold;
 }
