@@ -17,7 +17,7 @@ body{
     color: white;
 }
 
-.sloka, .pada-chedha, .word-meaning, .translation, .anvaya, .notes {
+.sloka, .pada-chedha, .anvaya, .translation, .word-meaning, .notes {
     font-size: 18px;
     margin: 10px;
     padding: 10px;
@@ -27,6 +27,11 @@ body{
     display: inline-block;
     vertical-align: top;
     width: 40%;
+}
+
+.sloka, .pada-chedha{
+    font-size: 24px;
+    font-weight: 600;
 }
 
 .anvaya, .notes{
