@@ -28,9 +28,32 @@ document.addEventListener('DOMContentLoaded', function() {
         const chapterNumber = parseInt(chapter_current, 10);
         // console.log("Chapter Number:", chapterNumber);
 
+        // Indicates the starting sloka of each chapter
+        const slokasStart = {
+            1: 1,
+            2: 11, /*1*/
+            3: 1,
+            4: 1,
+            5: 1,
+            6: 1,
+            7: 1,
+            8: 1,
+            9: 1,
+            10: 1,
+            11: 1,
+            12: 1,
+            13: 1,
+            14: 1,
+            15: 1,
+            16: 1,
+            17: 1,
+            18: 1
+        };
+
+        // Indicates th ending sloka of each chapter
         const slokasPerChapter = {
             1: 47,
-            2: 72,
+            2: 18, /*72*/
             3: 43,
             4: 42,
             5: 29,
@@ -54,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const prevSloka = slokaNumber - 1;
         const nextSloka = slokaNumber + 1;
 
-        if(prevSloka > 0) {
+        if(prevSloka >= slokasStart[chapterNumber]) {
             // console.log("Previous Sloka:", prevSloka);
             document.getElementsByClassName("prev")[0].href = `./sloka${prevSloka}.html`;
         }
