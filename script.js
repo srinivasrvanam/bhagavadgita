@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Indicates th ending sloka of each chapter
         const slokasPerChapter = {
             1: 47,
-            2: 18, /*72*/
+            2: 19, /*72*/
             3: 43,
             4: 42,
             5: 29,
