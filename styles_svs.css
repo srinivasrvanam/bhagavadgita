@@ -65,7 +65,7 @@ body{
 .back-to-top{
     float: right;
     position: sticky;
-    bottom: 5%;
+    bottom: 10%;
     right: 5%;
     background-color: #010E19;
     color: white;
