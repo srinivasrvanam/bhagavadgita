@@ -62,6 +62,20 @@ body{
     text-align: center;
 }
 
+.back-to-top{
+    float: right;
+    position: sticky;
+    bottom: 5%;
+    right: 5%;
+    background-color: #010E19;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 /* TABLET SCREEN */
 @media (min-width: 769px) and (max-width: 1024px) {
     .sloka, .pada-chedha, .word-meaning, .translation, .anvaya, .notes {
