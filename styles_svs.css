@@ -1,0 +1,80 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-color: bisque;
+}
+
+.sloka-link, .prev, .home, .next{
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 7px;
+    margin: 3px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #010E19;
+    color: white;
+}
+
+.sloka, .pada-chedha, .anvaya, .translation, .word-meaning, .notes {
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color:antiquewhite;
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+}
+
+.sloka{
+    font-size: 24px;
+    font-weight: 600;
+    width: 35%;
+}
+
+
+.each-sloka{
+    border-top: 2px solid brown;
+    padding-top: 25px;
+    text-align: left;
+}
+
+.translation{
+    width: 35%;
+}
+
+.notes{
+    width: 50%;
+}
+
+.anvaya, .notes{
+    text-align: left;
+}
+
+.heading{
+    font-size: 24px;
+    font-weight: bold;
+    padding: 5px;
+    color: brown;
+    text-align: center;
+}
+
+/* TABLET SCREEN */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .sloka, .pada-chedha, .word-meaning, .translation, .anvaya, .notes {
+        width: 90%;
+    }
+}
+
+/* MOBILE SCREEN */
+@media (max-width: 768px) {
+    .sloka, .pada-chedha, .word-meaning, .translation, .anvaya, .notes {
+        width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+}
