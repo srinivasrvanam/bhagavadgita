@@ -64,3 +64,7 @@ Pratyayas:
 present participle - while smiling/reading etc 
 - शतृ - परस्मैपदी
 - शानच् - आत्मनेपदी
+
+past tense - 
+- क्त - passive - मया कृतं - done 
+- क्तवतु - active - अहं कृतवान् - one who has done 
