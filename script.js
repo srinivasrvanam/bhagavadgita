@@ -1,10 +1,20 @@
+function showConsoleLog(message){
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('debug') === 'true') {
+        console.log("SV: " + message);
+    }
+}
+
+
 document.addEventListener('DOMContentLoaded', function() {
     
     // Your JavaScript code here
     // console.log("DOM fully loaded and parsed");
 
     const path = window.location.pathname;
+    showConsoleLog('test');
     // console.log("Path:", path);
+    showConsoleLog("Path: " + path);
     
     const filename = path.split('/').pop();
     // console.log("Filename:", filename);
@@ -13,20 +23,25 @@ document.addEventListener('DOMContentLoaded', function() {
     if (filename.includes('sloka')) {
         // Do something
         // console.log("Filename contains 'sloka'");
+        showConsoleLog("Filename contains 'sloka'");
 
         const foldername = path.split('/')[1];
 
         const sloka_current = filename.replace('sloka', '').replace('.html', '');
         // console.log("Sloka #:", sloka_current);
+        showConsoleLog("Sloka #: " + sloka_current);
 
         const chapter_current = foldername.charAt(foldername.length - 1);
         // console.log("Chapter #:", chapter_current);
+        showConsoleLog("Chapter #: " + chapter_current);
 
         const slokaNumber = parseInt(sloka_current, 10);
         // console.log("Sloka Number:", slokaNumber);
+        showConsoleLog("Sloka Number: " + slokaNumber);
 
         const chapterNumber = parseInt(chapter_current, 10);
         // console.log("Chapter Number:", chapterNumber);
+        showConsoleLog("Chapter Number: " + chapterNumber);
 
         // Indicates the starting sloka of each chapter
         const slokasStart = {
@@ -79,6 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         if(prevSloka >= slokasStart[chapterNumber]) {
             // console.log("Previous Sloka:", prevSloka);
+            showConsoleLog("Previous Sloka: " + prevSloka);
             document.getElementsByClassName("prev")[0].href = `./sloka${prevSloka}.html`;
         }
         else{
@@ -87,6 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         if(nextSloka <= slokasPerChapter[chapterNumber]) {
             // console.log("Next Sloka:", nextSloka);
+            showConsoleLog("Next Sloka: " + nextSloka);
             document.getElementsByClassName("next")[0].href = `./sloka${nextSloka}.html`;
         }
         else{
