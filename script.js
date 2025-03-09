@@ -16,7 +16,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // console.log("Path:", path);
     showConsoleLog("Path: " + path);
     
-    const filename = path.split('/').pop();
+    const pathArray = path.split('/');
+    showConsoleLog("Path Array: " + pathArray);
+    const filename = pathArray.pop();
     // console.log("Filename:", filename);
 
     if(filename)
@@ -25,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // console.log("Filename contains 'sloka'");
         showConsoleLog("Filename contains 'sloka'");
 
-        const foldername = path.split('/')[1];
+        const foldername = pathArray[pathArray.length - 1];
 
         const sloka_current = filename.replace('sloka', '').replace('.html', '');
         // console.log("Sloka #:", sloka_current);
