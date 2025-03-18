@@ -37,9 +37,6 @@ const verses = [
           "दैवम्-आह्निकम् = daily pujas/rituals (divine work)",
           "कर्तव्यं = कृ (8U - to do - तनादिः उभयपदी - तव्यत्) - should be done - follows the linga/vachana/vibhakti of 'दैवम्-आह्निकम्' - तव्यत् & अनियर् generally used in कर्मणि - कर्ता depends on context",
 
-
-
-
       ]
   },
   {
@@ -73,9 +70,6 @@ const verses = [
           "त्रैलोक्यं =",
           "मङ्गलं = auspicious",
           "कुरु = कृ (8U - to do - तनादिः उभयपदी) - कर्तरि लोट् - परस्मै - म.पु. - एक.व.",
-
-
-
 
       ]
   },
@@ -128,10 +122,6 @@ const verses = [
           "?? Difference between Srita and Asrita",
           "प्रिय-दान-शीले = शीला (nature/tendency) - सं.प्रथमा.वि. एक.व.",
           "श्रीवेङ्कटेश-दयिते = दयिता(पत्नी - सं.प्रथमा.वि. एक.व.)",
-
-
-
-
       ]
   },
   {
@@ -171,10 +161,6 @@ const verses = [
           "समासाः = TO-DO",
           "मण्डले = मण्डला (circular - स्त्री.लि. - सं.प्रथमा.वि. एक.व.)",
           "दया-निधे = निधा (?? - स्त्री.लि. - सं.प्रथमा.वि. एक.व.)",
-
-
-
-
       ]
   },
   {
@@ -197,7 +183,6 @@ const verses = [
           "- सन्ध्यां समुपास्य",
           "- (मनोहराणि) आकाश-सिन्धु-कमलानि आदाय",
           "- पादयुगम्-अर्चयितुं प्रपन्नाः",
-
           "हे शेषाद्रि-शेखर-विभो ! तव सुप्रभातम् (भवतु) ।",
       ],
       transl: [
@@ -214,10 +199,6 @@ const verses = [
           "प्र-पन्नाः = प्र-पन्न (पद् धातु - 4A - to go) - (क्त प्रत्यय - past tense - कृदन्त - कर्मणि प्रयोगः - पन्न) - पु.लि. - बहु.व. = they came",
           "शेखर = chief",
           "विभो = विभु (पुं) - सं.प्रथमा.वि. - एक.व. = स्वामी",
-
-
-
-
       ]
   },
   {
@@ -248,7 +229,6 @@ const verses = [
           "6.1: (Salutations to Sri Govinda) In this Beautiful Dawn, Sri Panchanana (Five-Faced Brahma) abiding on Lotus, Sri Shanmukha (Six-Faced Subramaniya), Indra Deva and Other Devas, 6.2: Are praising the Divine Deeds of Trivikrama (Who covered the 3 worlds with his steps) and other Incarnations of Yours, 6.3: Sri Brihaspati, the Lord of Sacred Speech is Reciting the Sacred Hymns to Purify the Day, 6.4: (The Gods are Singing) Salutations to You, O Govinda, the One Who Manifested on the Peak of the Seshadri Hill; Salutations to You in this Beautiful Dawn of Yours.",
       ],
       notes: [
-
           "पञ्चानन = पञ्च (5) + आनन (face) = 5 faced - Lord Shiva",
           "अब्ज = Born from Water - Lotus",
           "अब्ज-भव = Originated from Lotus - Lord Brahma",
@@ -259,10 +239,6 @@ const verses = [
           "भाषा-पतिः = Lord of Speech (Deva-Guru = Brihaspati)",
           "वासर-शुद्धिम् =",
           "आरात् = ??",
-
-
-
-
       ]
   },
   {
@@ -309,10 +285,6 @@ const verses = [
           "अनिल: = वायुः/breeze",
           "आ-वाति = वा (2P - अदादि- कर्तरि लट् - to blow) = blows",
           "अनिल: मन्दम् आवाति = breeze gently blows",
-
-
-
-
       ]
   },
   {
@@ -359,10 +331,6 @@ const verses = [
           "स्थाः = स्थ = being situated in",
           "केलि = playful/sportive",
           "सलीलम् = स—लीलम् (अम्) = playfully, with ease",
-
-
-
-
       ]
   },
   {
@@ -410,10 +378,6 @@ const verses = [
           "अनन्त-चरितं = endless glories (pastimes/deeds)",
           "गायति = singing",
           "भाषा-समग्रम् = APPLIES WHERE Line 2 or Line 3??",
-
-
-
-
       ]
   },
   {
@@ -462,10 +426,6 @@ const verses = [
           "सरसी = सरस (lake)",
           "कमल = lotus",
           "उदरेभ्यः = from the interior of the lotuses",
-
-
-
-
       ]
   },
   {
@@ -515,9 +475,6 @@ const verses = [
           "ककुभः = ककुप्/ककुब् (ककुभ् - स्त्री - दिशा/दिक् - direction) - प्रथमा.वि. - बहु.व. = directions",
           "कुम्भाः = clay pots",
 
-
-
-
       ]
   },
   {
@@ -564,9 +521,6 @@ const verses = [
           "श्रियं = श्रीः - (श्री - beauty/glow/radiance) - स्त्री.लि. - द्वितीया.वि. - एक.व.",
           "बिभ्रति = भृ (3U - जुहोत्यादि - to wear/bear/support/nourish/protect) - कर्तरि लट् - परस्मै - प्र.पु. - बहु.व.",
 
-
-
-
       ]
   },
   {
@@ -608,9 +562,6 @@ const verses = [
           "सिन्धो = सिन्धुः (सिन्धु - पुं) - सं.प्रथमा.वि. - एक.व.",
           "मूर्ते = मूर्तिः (मूर्ति - पुं/स्त्री - अत्र पुं) - सं.प्रथमा.वि. - एक.व.",
           "पते = पतिः(पति - पुं) - सं.प्रथमा.वि. - एक.व.",
-
-
-
 
       ]
   },
@@ -659,9 +610,6 @@ const verses = [
           "उत्तम+अंगं = ‘the best limb ‘of the body’, the head",
           "वर-वेत्र-हत-उत्तम-अङ्गाः = those who are struck in their heads by your boon giving staff - (?? any explanation for this ??)",
 
-
-
-
       ]
   },
   {
@@ -700,9 +648,6 @@ const verses = [
           "त्वदीय = त्वदीयः (त्वदीय - पुं) = your",
           "वसतेः = ?? HOW",
           "अनिशम् = अनिशम् (अनिश - नपुं) = incessantly/uninterrupted",
-
-
-
 
       ]
   },
@@ -755,9 +700,6 @@ const verses = [
           "पराः = परः (पर - पुं) - प्रथमा.वि. - बहु.व.",
           "सेवापराः = those who are engaged in service",
 
-
-
-
       ]
   },
   {
@@ -806,9 +748,6 @@ const verses = [
           "स्वस्वाधिकारमहिमा = their own authority and greatness",
           "अधिकमर्थयन्ते = seeking to increase",
           "अर्थयन्ते = (अर्थ - 10A - चुरादिः - to beg/request) - कर्तरि लट् - प्र.पु. - बहु.व. = seeking",
-
-
-
 
       ]
   },
@@ -859,9 +798,6 @@ const verses = [
           "चरम = last/ultimate/final",
           "अवधि = limit/boundary",
 
-
-
-
       ]
   },
   {
@@ -910,9 +846,6 @@ const verses = [
           "आकुलतां = आकुलता (perplexity/confusion/కలవరపాటు) - द्वितीया.वि. - एक.व.",
           "लभन्ते = लभ् (1A - भ्वादि - to get/obtain) - कर्तरि लट्ल - प्र.पु. - बहु.व.",
 
-
-
-
       ]
   },
   {
@@ -952,9 +885,6 @@ const verses = [
           "श्रयन्तः = श्रयन् (श्रयत् - पुं) - (श्रि - 1U - to serve - शतृ) - while serving",
           "मतिम् = मतिः (मति - स्त्री - thought/mind/intellect) - द्वितीया.वि. - एक.व.",
           "आश्रयन्ते = आ-श्रयन्ते - (आ-श्रि - 1U - to go/stay near) - आत्मने - कर्तरि लट् - प्र.पु. - बहु.व. = they are seeking refuge",
-
-
-
 
       ]
   },
@@ -996,9 +926,6 @@ const verses = [
           "अब्धे = अब्धिः (अब्धि - पुं) = ocean = समुद्रः",
           "मूर्ते = (मुर्च्छ्) = form",
           "अङ्घ्रे = अङ्घ्रिः (अङ्घ्रि - पुं = foot) = चरणः",
-
-
-
 
       ]
   },
@@ -1044,9 +971,6 @@ const verses = [
           "श्रीवत्स =",
           "पारिजात = of one of the 5 trees of paradise (produced at the churning of the ocean and taken possession of by Indra from whom it was afterwards taken by Kṛṣṇa",
 
-
-
-
       ]
   },
   {
@@ -1085,9 +1009,6 @@ const verses = [
           "लोल =",
           "दृष्टे = दृष्टः (दृश् - 1P - to see/look - क्त) - सप्तमी.वि. - एक.व. - (Eg: मया दृष्टे वृक्षे फलम् अस्ति - Fruit on the tree seen by me) - (Eg: मया दृष्टः वृक्षः - Tree seen by me)",
           "कीर्ते = कीर्तिः (कीर्ति) - सं.प्रथमा.वि. - एक.व.",
-
-
-
 
       ]
   },
@@ -1141,9 +1062,6 @@ const verses = [
           "शेषांश-राम = Balarama, who is an amsha of Adisesha",
           "यदु-नन्दन = Krishna, son of Yadu",
           "कल्कि-रूप = Kalki, in the form of",
-
-
-
 
       ]
   },
@@ -1199,9 +1117,6 @@ const verses = [
           "वेङ्कट-पते = वेङ्कट-पतिः (वेङ्कट-पति - पुं) - Lord of Venkata",
           "सुप्रभातम् = सुप्रभातः (सुप्रभात - पुं) - auspicious dawn",
 
-
-
-
       ]
   },
   {
@@ -1250,9 +1165,6 @@ const verses = [
           "ते = त्वम् (युष्मद् - you) षष्ठी - एक.व. = your",
           "धाम = धाम (धामन् - न.पुं.) प्रथमा - एक.व. = abode",
           "आश्रयन्ति = आ-श्रि (1U - आश्रय करना/समीप जाना या रहना - to take shelter) - कर्तरि लट् - प्र.पु. - बहु.व. = are taking shelter",
-
-
-
 
       ]
   },
@@ -1307,9 +1219,6 @@ const verses = [
           "अन्तिके = अन्तिक (अन्तिक - पुं.लि. - near - समीपः) - सप्तमी - एक.व.",
           "मङ्गल-वस्तु-हस्ताः = मङ्गल-वस्तु + हस्तः (mangala + item + hand) - प्रथमा - बहु.व. = auspicious items in their hands",
 
-
-
-
       ]
   },
   {
@@ -1355,9 +1264,6 @@ const verses = [
           "वेदान्त-वेद्य = O, One who is known through Vedas and Upanishads",
           "निज-वैभव = O, One who is Eternally Glorious",
           "भक्त-भोग्य = O, One who is Enjoyed by devotees",
-
-
-
 
       ]
   },
@@ -1409,9 +1315,4 @@ const verses = [
 
 export default verses;
 
-
-
-
-
 // "॥ इति वेङ्कटेशसुप्रभातम् ॥",
-
